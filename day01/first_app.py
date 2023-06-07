@@ -4,7 +4,7 @@ from appium import webdriver
 desired_caps={
     "platformName":"Android",
     "platformVersion":"6.0.1",
-    "deviceName":"yjy",
+    "deviceName":"yjy01",
     "appPackage":"com.km.karaoke",
     "appActivity":"com.utalk.hsing.activity.StartActivity",
     "noReset":True
